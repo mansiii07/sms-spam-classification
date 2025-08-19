@@ -15,10 +15,16 @@ It is built using **Python, scikit-learn, NLTK, and Streamlit**.
 ---
 
 ## 📂 Project Structure
+├── sms-spam.csv # Dataset used in the Project
+
 ├── sms-spam-detection.ipynb # Jupyter Notebook with model training & evaluation
+
 ├── sms.py # Streamlit app for deployment
+
 ├── vectorizer.pkl # Saved TF-IDF vectorizer
+
 ├── model.pkl # Trained ML model
+
 └── README.md # Project Documentation
 
 📊 Example Prediction
