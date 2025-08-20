@@ -35,7 +35,3 @@ Output: Spam
 Input: "Hey, are we meeting tomorrow?"
 
 Output: Not Spam
-
-✨ Author
-👩‍💻 Mansi Rawat
-Summer Internship Project – EduSkills / Data Science
